@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ee89d20.css",
+    "main.js": "/static/js/main.e5a8cc91.js",
+    "static/media/pomodoro-form-bg-4.jpg": "/static/media/pomodoro-form-bg-4.421bc59958251f0fe7eb.jpg",
+    "static/media/background-1.jpg": "/static/media/background-1.68d9d7e5869861d873b3.jpg",
+    "index.html": "/index.html",
+    "main.6ee89d20.css.map": "/static/css/main.6ee89d20.css.map",
+    "main.e5a8cc91.js.map": "/static/js/main.e5a8cc91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee89d20.css",
+    "static/js/main.e5a8cc91.js"
+  ]
+}
